@@ -1,5 +1,5 @@
 {
-  "cSpell.words": ["devday", "dracula"],
+  "cSpell.words": ["devday", "dracula", "Preact"],
   "files.exclude": {
     "**/node_modules": true,
     "**/slides/index.html": true,

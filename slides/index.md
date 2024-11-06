@@ -158,3 +158,12 @@ Exécution :
 # Exemple 5
 
 Écrivons un peu de code, certes naïf, mais permettant d'implémenter un signal, un effet, et un dérivé moins de 40 lignes de JavaScript.
+
+---
+
+# Resources pour continuer
+
+- [JavaScript Signals standard proposal](https://github.com/tc39/proposal-signals)
+- [Signals Preact guide](https://preactjs.com/guide/v10/signals)
+- [SolidJS Signals introduction](https://www.solidjs.com/tutorial/introduction_signals)
+- [Angular Signals](https://angular.dev/guide/signals)
