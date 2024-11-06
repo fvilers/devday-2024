@@ -2,10 +2,14 @@
   "name": "devday-2024",
   "version": "0.0.0",
   "description": "Les Signaux démystifiés",
+  "scripts": {
+    "start": "serve ./src"
+  },
   "author": "Fabian Vilers <fabian.vilers@dev-one.com> (https://www.dev-one.com/)",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.17.6",
+    "serve": "^14.2.4",
     "tsx": "^4.19.2"
   }
 }
