@@ -155,9 +155,13 @@ Exécution :
 
 ---
 
-# Exemple 5
+# Let's code
 
-Écrivons un peu de code, certes naïf, mais permettant d'implémenter un signal, un effet, et un dérivé en moins de 40 lignes de JavaScript.
+Implémentons un signal, un effet, et un signal dérivé en moins de <strong>40 lignes</strong> de JavaScript.
+
+![bg right](./img/kelly-sikkema--q69Jfp6MtM-unsplash.jpg)
+
+<!-- _footer: Photo by <a href="https://unsplash.com/@kellysikkema?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Kelly Sikkema</a> on <a href="https://unsplash.com/photos/person-writing-on-white-paper--q69Jfp6MtM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> -->
 
 ---
 
