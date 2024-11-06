@@ -94,3 +94,24 @@ Exécution :
 ![](./img/solution1-en-2x.png)
 
 <!-- _footer: Source: https://refactoring.guru/design-patterns/observer -->
+
+---
+
+# Exemple 3
+
+```typescript
+const button = document.querySelector("button");
+
+button.addEventListener("click", () => {
+  console.log("Clicked");
+});
+```
+
+Exécution :
+
+```bash
+Clicked
+Clicked
+Clicked
+...
+```
