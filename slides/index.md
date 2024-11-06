@@ -86,3 +86,11 @@ Exécution :
 0
 20
 ```
+
+---
+
+# Observer pattern
+
+![](./img/solution1-en-2x.png)
+
+<!-- _footer: Source: https://refactoring.guru/design-patterns/observer -->
