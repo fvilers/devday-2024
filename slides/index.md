@@ -157,7 +157,7 @@ Exécution :
 
 # Exemple 5
 
-Écrivons un peu de code, certes naïf, mais permettant d'implémenter un signal, un effet, et un dérivé moins de 40 lignes de JavaScript.
+Écrivons un peu de code, certes naïf, mais permettant d'implémenter un signal, un effet, et un dérivé en moins de 40 lignes de JavaScript.
 
 ---
 
