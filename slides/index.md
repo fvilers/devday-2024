@@ -13,7 +13,7 @@ style: |
     font-size: 0.5rem;
   }
   pre {
-  font-size: 0.8rem;
+    font-size: 0.8rem;
   }
 ---
 
