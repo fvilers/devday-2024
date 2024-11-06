@@ -163,6 +163,7 @@ Exécution :
 
 # Resources pour continuer
 
+- [Cette présentation, et tout les exemples de code](https://github.com/fvilers/devday-2024)
 - [JavaScript Signals standard proposal](https://github.com/tc39/proposal-signals)
 - [Signals Preact guide](https://preactjs.com/guide/v10/signals)
 - [SolidJS Signals introduction](https://www.solidjs.com/tutorial/introduction_signals)
