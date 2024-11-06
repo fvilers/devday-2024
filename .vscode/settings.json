@@ -1,7 +1,9 @@
 {
   "cSpell.words": ["dracula"],
   "files.exclude": {
-    "**/slides/index.html": true
+    "**/node_modules": true,
+    "**/slides/index.html": true,
+    "**/package-lock": true
   },
   "markdown.marp.themes": ["./slides/dracula.css"]
 }

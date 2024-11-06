@@ -48,3 +48,20 @@ p img {
 - Entrepreneur, passionné du web, photographe amateur, père de deux filles, gamer, et l'humain d'un Akita Inu
 - Suivez moi (@fvilers) sur [GitHub](https://github.com/fvilers), [Twitter](https://twitter.com/fvilers), ou [Instagram](https://www.instagram.com/fvilers)
 - Soyons connectés sur [LinkedIn](https://www.linkedin.com/in/fvilers)
+
+---
+
+# Exemple 1
+
+```typescript
+let count = 0;
+const double = count * 2;
+
+console.log(double);
+```
+
+Exécution :
+
+```bash
+0
+```
