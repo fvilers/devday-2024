@@ -3,7 +3,7 @@
   "files.exclude": {
     "**/node_modules": true,
     "**/slides/index.html": true,
-    "**/package-lock": true
+    "**/package-lock.json": true
   },
   "markdown.marp.themes": ["./slides/dracula.css"]
 }
