@@ -96,14 +96,6 @@ Exécution :
 
 ---
 
-# Observer pattern
-
-![](./img/solution1-en-2x.png)
-
-<!-- _footer: Source: https://refactoring.guru/design-patterns/observer -->
-
----
-
 # Exemple 3
 
 ```typescript
@@ -122,6 +114,14 @@ Clicked
 Clicked
 ...
 ```
+
+---
+
+# Observer pattern
+
+![](./img/solution1-en-2x.png)
+
+<!-- _footer: Source: https://refactoring.guru/design-patterns/observer -->
 
 ---
 
