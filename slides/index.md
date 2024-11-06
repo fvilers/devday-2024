@@ -167,3 +167,13 @@ Exécution :
 - [Signals Preact guide](https://preactjs.com/guide/v10/signals)
 - [SolidJS Signals introduction](https://www.solidjs.com/tutorial/introduction_signals)
 - [Angular Signals](https://angular.dev/guide/signals)
+
+---
+
+# Merci !
+
+Pour donner du feedback sur cette présentation, suivez le lien sur ce QR Code 🤳
+
+![width:200px](./img/feedback.png)
+
+<!-- _footer: Présentation réalisée avec <a href="https://marp.app">Marp</a> et utilisant le thème <a href="https://draculatheme.com/marp">Dracula</a> -->
