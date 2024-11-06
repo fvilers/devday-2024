@@ -1,0 +1,7 @@
+{
+  "cSpell.words": ["dracula"],
+  "files.exclude": {
+    "**/slides/index.html": true
+  },
+  "markdown.marp.themes": ["./slides/dracula.css"]
+}
