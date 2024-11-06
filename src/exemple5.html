@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="light dark" />
+    <link rel="stylesheet" href="pico.classless.fuchsia.min.css" />
+    <title>Exemple 5</title>
+    <style>
+      html,
+      body,
+      main {
+        height: 100vh;
+      }
+
+      main {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <button></button>
+    </main>
+
+    <script type="module">
+      import { derived, effect, signal } from "./signals.js";
+
+      const count = signal(0);
+      const double = derived(() => count.value * 2);
+      const button = document.querySelector("button");
+
+      button.addEventListener("click", () => {
+        count.value++;
+      });
+
+      effect(() => {
+        console.log(double.value);
+      });
+
+      effect(() => {
+        button.innerText = count.value;
+      });
+    </script>
+  </body>
+</html>

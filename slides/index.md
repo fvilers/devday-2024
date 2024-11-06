@@ -139,3 +139,18 @@ Exécution :
 10
 20
 ```
+
+---
+
+# Signals
+
+- Ressemblent à s'y méprendre aux observables
+- Émettent des événements
+- Sont un système hybride de "push" et "pull"
+- Peu intéressant sans leur complément : les effects
+
+---
+
+# Exemple 5
+
+Écrivons un peu de code, certes naïf, mais permettant d'implémenter un signal, un effet, et un dérivé moins de 40 lignes de JavaScript.
