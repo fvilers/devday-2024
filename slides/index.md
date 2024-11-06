@@ -12,6 +12,9 @@ style: |
   footer {
     font-size: 0.5rem;
   }
+  pre {
+  font-size: 0.8rem;
+  }
 ---
 
 <!-- _footer: Photo by <a href="https://unsplash.com/@claybanks?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Clay Banks</a> on <a href="https://unsplash.com/photos/traffic-light-on-red-light-mo_VkVzwBSc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> -->
@@ -114,4 +117,25 @@ Clicked
 Clicked
 Clicked
 ...
+```
+
+---
+
+# Exemple 4
+
+```typescript
+const observer = observable(0);
+const unsubscribe = observer.subscribe((value) => console.log(value));
+
+observer.update(10);
+observer.update(20);
+
+unsubscribe();
+```
+
+Exécution :
+
+```bash
+10
+20
 ```
