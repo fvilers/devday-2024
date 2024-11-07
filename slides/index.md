@@ -150,7 +150,7 @@ Exécution :
 
 - Ressemblent à s'y méprendre aux observables
 - Émettent des événements
-- Sont un système hybride de "push" et "pull"
+- Sont un système hybride de "push" (set) et "pull" (get)
 - Peu intéressant sans leur complément : les effects
 
 ---
