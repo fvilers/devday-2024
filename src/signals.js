@@ -14,7 +14,7 @@ export function signal(initialValue) {
       current = value;
 
       for (const fn of subscribers) {
-        fn(current);
+        fn();
       }
     },
   };
